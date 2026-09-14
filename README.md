@@ -23,7 +23,7 @@ Kidzoo is a simple educational mobile application designed for kids to learn bas
 The application features a simple and colorful interface designed to be easy and engaging for children.
 
 The UI/UX was designed using Figma.
-https://www.figma.com/proto/JLPd49uDIJLKlh0sraBi2B/kidzooapp?node-id=11-38&t=jlpeqKUgezN4iqQr-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=11%3A46
+[https://www.figma.com/proto/JLPd49uDIJLKlh0sraBi2B/kidzooapp?node-id=11-38&t=jlpeqKUgezN4iqQr-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=11%3A46](https://www.figma.com/proto/JLPd49uDIJLKlh0sraBi2B/kidzooapp?node-id=11-46&p=f&t=OYI5DJkfg5SHsdxA-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=11%3A46)
 
 ## Screenshots
 <img width="379" height="747" alt="s1" src="https://github.com/user-attachments/assets/696757c3-3494-4b2d-93b6-bd28933eb2cb" />
